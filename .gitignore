@@ -1,0 +1,22 @@
+# Python
+*.pyc
+__pycache__/
+*.pyo
+
+# Django
+db.sqlite3
+*.log
+*.pot
+*.pyc
+
+# Virtual environment
+venv/
+env/
+
+# Model files (We don't need to push the model itself)
+*.pkl
+*.joblib
+
+# IDE files
+.idea/
+.vscode/

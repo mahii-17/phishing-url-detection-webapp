@@ -1,0 +1,7 @@
+URL,Label
+http://example.com,0
+http://secure-login.com@phishingsite.com,1
+https://google.com,0
+http://192.168.1.1/login,1
+https://my-bank-secure.com,0
+http://login-update-info.com,1
